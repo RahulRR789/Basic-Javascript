@@ -22,7 +22,9 @@ console.log(a);
 var a= 39;
 console.log(a);
 
-
+// variables 
+//  decalartion of let 
+let b;
 
 
 
