@@ -26,5 +26,9 @@ console.log(a);
 //  decalartion of let 
 let b;
 
+// intialization of let
+b=100;
+console.log(b);
+
 
 
