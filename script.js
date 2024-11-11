@@ -30,5 +30,10 @@ let b;
 b=100;
 console.log(b);
 
+//  decalartion and intialization in same line
+
+let b =100; 
+console.log(b);
+
 
 
