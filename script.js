@@ -35,5 +35,21 @@ console.log(b);
 let b =100; 
 console.log(b);
 
+//  re-decalartion
+let b;
+// Uncaught SyntaxError: Identifier 'b' has already been declared
+
+
+// re-intialization 
+b=203;
+console.log(b);
+
+// re-decalartion and re-intialization in same line
+let b =1000;
+ console.log(b);
+// Uncaught SyntaxError: Identifier 'b' has already been declared
+
+
+
 
 
